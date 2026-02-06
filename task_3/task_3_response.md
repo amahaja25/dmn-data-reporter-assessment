@@ -1,4 +1,4 @@
-## Task 3
+# Task 3
 You have just finished a complex analysis for a front-page story. You are going on vacation the week the story runs. An editor (not the data editor) needs to double-check your numbers, and your graphics colleagues may need to build charts or update graphics.
 
 **Please detail for us:**
